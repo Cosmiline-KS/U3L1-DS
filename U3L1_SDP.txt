@@ -1,0 +1,4 @@
+I feel like the differences between the two are recursion is more simple and meant for a specific task of going through a collection of data. While loops are more general and are used to repeat a task until a certain requirement is full-filled.
+
+
+recursion isnt a replacement for while loops since they cant do everything a while loop could, they also get a little confusing when they return and go backwards through the code, making them not a perfect replica/replacement for while loops. 
